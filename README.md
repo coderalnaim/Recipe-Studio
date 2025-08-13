@@ -95,9 +95,8 @@ Worst case: it falls back to safe defaults like “Salt, Pepper, Olive oil” an
 
 Attach screen capture:
 
-```markdown
-[▶ Watch the demo](./demo.mp4)
-```
+[Watch the video](https://dms.licdn.com/playlist/vid/v2/D4D05AQERqmOt2-T-lg/mp4-720p-30fp-crf28/B4DZijHjcAGQB0-/0/1755083352060?e=1755691200&v=beta&t=oiWuYvkvYYwgpwJBdOghFN-7LekXZ4fI2N-4wObmkZw)
+
 ---
 
 ## 🛠 Troubleshooting
